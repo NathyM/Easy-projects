@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/nataliemacedo/Downloads/easy_project_mobile_2/build/firebase_auth/intermediates/res/merged/release/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/nataliemacedo/.gradle/caches/transforms-2/files-2.1/04e017eca3084ac3f2d56692d577fe10/jetified-play-services-base-17.1.0/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/nataliemacedo/Downloads/easy_project_mobile_2/build/firebase_auth/intermediates/res/merged/release/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/nataliemacedo/.gradle/caches/transforms-2/files-2.1/04e017eca3084ac3f2d56692d577fe10/jetified-play-services-base-17.1.0/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/nataliemacedo/Downloads/easy_project_mobile_2/build/firebase_auth/intermediates/res/merged/release/color/common_google_signin_btn_tint.xml",
+        "source": "/Users/nataliemacedo/.gradle/caches/transforms-2/files-2.1/04e017eca3084ac3f2d56692d577fe10/jetified-play-services-base-17.1.0/res/color/common_google_signin_btn_tint.xml"
+    }
+]

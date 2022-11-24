@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+Easy/projects/BuildConfig.java
+ Easy.projects.BuildConfig
